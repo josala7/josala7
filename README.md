@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi 👋 Welcome to <a href="https://linkedin.com/in/www.linkedin.com/in/yousef-mohamed-000677256" target="blank"> Yousef Mohamed </a> Profile</h1>
-<h3 align="center">I'm a Fresh frontend developer 💖</h3>
+<h3 align="center"><a href="https://git.io/typing-svg"><img  src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+a React+frontend+developer+😎" alt="Typing SVG" /></a></h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGRqYWt3cTd4dDl2eWhlcnhnNDM4cm5nZW9vZ3R0eGJyeGZpOG5vaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
-- 👋 Hi My Name is Yousef Mohamed, I'm from Egypt, I'm 22 years old<br/>
+- 👋 Hi My Name is Yousef , I'm from Egypt, I'm 22 years old<br/>
 - 🏢 Iam a recent graduate from Faculty of Science in CS departement ! <br/>
 - 🌱 I’m currently learning **React.js**<br/>
 - 📫 How to reach me **joosala4@gmail.com**
