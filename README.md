@@ -2,17 +2,16 @@
 <h1 align="center">Hi 👋 Welcome to <a href="https://www.linkedin.com/in/yousef-mohamed-000677256/" target="blank"> Yousef Mohamed </a> Profile</h1>
 <h3 align="center"><a href="https://git.io/typing-svg"><img  src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+a React+frontend+developer+😎" alt="Typing SVG" /></a></h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGRqYWt3cTd4dDl2eWhlcnhnNDM4cm5nZW9vZ3R0eGJyeGZpOG5vaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
-- 👋 Hi My Name is Yousef , I'm from Egypt, I'm 22 years old<br/>
+- 👋 Hi My Name is Yousef , I'm from Egypt, I'm 23 years old<br/>
 - 🏢 Iam a recent graduate from Faculty of Science in CS departement ! <br/>
-- 🌱 I’m currently learning **React.js**<br/>
-- 📫 How to reach me **joosala4@gmail.com**
+- 🌱 I’m currently learning **Next.js Framework**<br/>
+- 📫 How to reach me **dev.yousefmohamed@gmail.com**
 <img align="center" alt="Coding" width="400" height="50" src="https://raw.githubusercontent.com/Govindv7555/Govindv7555/main/49e76e0596857673c5c80c85b84394c1.gif">
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/yousef-mohamed-000677256" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/yousef-mohamed-000677256" height="30" width="40" /></a>
-<a href="https://www.instagram.com/yousefmohamed9557/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="www.linkedin.com/in/yousef-mohamed-000677256" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yousefmohamed23/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/yousefmohamed23/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100011305060509" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="www.linkedin.com/in/yousef-mohamed-000677256" height="30" width="40" /></a>
 </p>
 <img align="center" alt="Coding" width="400" height="50" src="https://raw.githubusercontent.com/Govindv7555/Govindv7555/main/49e76e0596857673c5c80c85b84394c1.gif">
